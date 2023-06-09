@@ -1,6 +1,5 @@
-# Nombre del Proyecto
+# Proyecto Base con Arquitectura MVVM (Model View ViewModel)
 
-Proyecto Base con Arquitectura MVVM (Model View ViewModel)
 
 ## Descripción
 
